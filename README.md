@@ -49,7 +49,7 @@ Note: `.env` and `venv/` are local files and should not be uploaded to GitHub.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Manishrathore07/AI-PDF-Assistant.git
 cd AI-PDF-Chatbot
 ```
 
